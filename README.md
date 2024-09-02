@@ -50,5 +50,6 @@ plotly, joblib and flask libraries.
 
 ### Licensing, Author and Acknowledgement
 Thanks to Figure-8 for making this web app for Udacity program for training purpose.
+Code is saved in [GitHub](https://github.com/Riteshjj98/Disaster-Response-Pipelines).
 
 > Note: Pipeline-preparation folder is not required for web app to run. It is being used for ETL and ML pipeline development and testing.
